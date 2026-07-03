@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\bin\Debug\net8.0\SalesOrderManagement.Domain.deps.json
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\bin\Debug\net8.0\SalesOrderManagement.Domain.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\bin\Debug\net8.0\SalesOrderManagement.Domain.pdb
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\SalesOrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\SalesOrderManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\SalesOrderManagement.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\SalesOrderManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\SalesOrderManagement.Domain.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\refint\SalesOrderManagement.Domain.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\SalesOrderManagement.Domain.pdb
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\ref\SalesOrderManagement.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\bin\Debug\net8.0\SalesOrderManagement.Application.deps.json
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\bin\Debug\net8.0\SalesOrderManagement.Application.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\bin\Debug\net8.0\SalesOrderManagement.Application.pdb
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\bin\Debug\net8.0\SalesOrderManagement.Domain.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\bin\Debug\net8.0\SalesOrderManagement.Domain.pdb
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\SalesOrderManagement.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\SalesOrderManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\SalesOrderManagement.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\SalesOrderManagement.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\SalesOrderManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\SalesOrd.F53BCB8C.Up2Date
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\SalesOrderManagement.Application.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\refint\SalesOrderManagement.Application.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\SalesOrderManagement.Application.pdb
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\ref\SalesOrderManagement.Application.dll
