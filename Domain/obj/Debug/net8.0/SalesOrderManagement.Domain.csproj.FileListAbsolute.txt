@@ -9,3 +9,4 @@ C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\refint\SalesOrderManagement.Domain.dll
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\SalesOrderManagement.Domain.pdb
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\ref\SalesOrderManagement.Domain.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Domain\obj\Debug\net8.0\SalesOrderManagement.Domain.sourcelink.json

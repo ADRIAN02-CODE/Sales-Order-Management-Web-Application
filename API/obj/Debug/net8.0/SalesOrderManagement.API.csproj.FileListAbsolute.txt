@@ -168,3 +168,4 @@ C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\API\obj
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\API\obj\Debug\net8.0\SalesOrderManagement.API.pdb
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\API\obj\Debug\net8.0\SalesOrderManagement.API.genruntimeconfig.cache
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\API\obj\Debug\net8.0\ref\SalesOrderManagement.API.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\API\obj\Debug\net8.0\SalesOrderManagement.API.sourcelink.json

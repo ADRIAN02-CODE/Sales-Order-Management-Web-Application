@@ -17,3 +17,4 @@ C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Infrast
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Infrastructure\obj\Debug\net8.0\SalesOrderManagement.Infrastructure.pdb
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Infrastructure\obj\Debug\net8.0\SalesOrderManagement.Infrastructure.genruntimeconfig.cache
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Infrastructure\obj\Debug\net8.0\ref\SalesOrderManagement.Infrastructure.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Infrastructure\obj\Debug\net8.0\SalesOrderManagement.Infrastructure.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Applica
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\refint\SalesOrderManagement.Application.dll
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\SalesOrderManagement.Application.pdb
 C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\ref\SalesOrderManagement.Application.dll
+C:\Users\User\Desktop\AntiGravity\Sales Order Management Web Application\Application\obj\Debug\net8.0\SalesOrderManagement.Application.sourcelink.json
