@@ -24,6 +24,7 @@ public class SaveSalesOrderDto
 
 public class SaveSalesOrderItemDto
 {
+    
     public int Id { get; set; }
     public int ItemId { get; set; }
     public string? Note { get; set; }
